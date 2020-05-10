@@ -1,6 +1,6 @@
 export default {
   hash: true,
-  title: 'react components',
+  title: 'demacia design',
   mode: 'site',
   favicon: 'logo.png',
   menus: {},
